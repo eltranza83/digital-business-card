@@ -7,9 +7,9 @@ document.addEventListener("DOMContentLoaded", () => {
     fullName: "Alejandro Cepeda",
     title: "Builder",
     organization: "Adepec Homes",
-    phone: "+13105550199",
-    email: "inquire@adepecgrouphomes.com",
-    website: "https://adepecgrouphomes.com"
+    phone: "+19568212514",
+    email: "info@adepechomes.com",
+    website: "https://adepechomes.com"
   };
 
   // --- DOM ELEMENTS ---
